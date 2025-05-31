@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="88Stereo.cr",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="OPA.cr",¡OPA! (1080p)
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+#EXTINF:-1 tvg-id="OPA.cr@SD",¡OPA! (1080i) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr",Antena Seis TV (720p) [Geo-blocked]
@@ -164,3 +164,9 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD",GAMTV.cr (720p)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+#EXTINF:-1 tvg-id="Canal3KMKTV.cr@SD",Canal 3 KMK TV (1280p) [Not 24/7]
+https://s3.tvdatta.com:3030/live/kmk3live.m3u8
+#EXTINF:-1 tvg-id="TicaVision.cr@SD",TicaVision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr@SD",Colosal TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
